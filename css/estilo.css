@@ -6,3 +6,19 @@ header .nav-link{color: #fff;border-radius: 5px;}
 header .nav-link:hover, header .active{background: #643a79;}
 header h1{color: #fff;font-size: 2.6rem; font-weight: bold;}
 .bottom_header{height: 445px; display:flex; align-items: center;flex-direction: column; justify-content: center;}
+.boton_contacto a{display: block; font-weight: bold; color: #fff; padding: 20px; background: #eb7d4b; border-radius: 4px;}
+.boton_contacto a:hover{background:#f78b5a;}
+
+.servicios{background-color: #2dc2a4; height 594px;}
+.servicios h2{color: #fff; text-align: center; margin-top:90px; letter-space: 7px; font-weight: bold;}
+.servicios h4{color: #fff; text-align: center; margin-top: 20px; letter-space: 5px; font-weigt:bold;}
+.servicios .cuadros h3{color: #fff; text-align: center; letter-space: 5px; font-weight:bold;}
+.servicios .cuadros p{color: #fff; text-align:center; letter-space: 2px; font-weight:200;}
+.servicios .cuadros img{widht: 100px; height: 100px; margin: 30px;}
+
+.equipo{background-color: #e7f1f8;}
+.equipo h2{color: #2c3033; text-align: center; margin-top:90px; letter-space: 7px; font-weight: bold;}
+.equipo h4{color: #2c3033; text-align: center; margin-top: 20px; letter-space: 5px; font-weigt:bold;}
+.equipo .cuadros h3{color: #2c3033; text-align: center; letter-space: 5px; font-weight:bold;}
+.equipo .cuadros p{color: #2c3033; text-align:center; letter-space: 2px; font-weight:200;}
+.equipo .cuadros img{widht: 200px; height: 200px; margin: 30px; border-radius: 150px;}
